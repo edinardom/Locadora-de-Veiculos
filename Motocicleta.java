@@ -2,7 +2,7 @@
 package locadora.de.veiculos;
 public class Motocicleta extends Veiculo{
     //atributos//
-    protected Float potencia;
+    protected float potencia;
     protected String tipo;
     
     
