@@ -1,4 +1,8 @@
 package locadora.de.veiculos;
 public class Caminhao extends Veiculo{
-    int n_eixos;
+    protected float capacidadeDeCarga;
+    protected int numeroDeEixo;
+    protected int potencia;
+    
+    
 }
